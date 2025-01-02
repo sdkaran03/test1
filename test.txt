@@ -1,0 +1,1 @@
+https://live.browserstack.com/dashboard#os=iOS&os_version=16.0&device_browser=chrome&zoom_to_fit=true&full_screen=true&url=https%3A%2F%2Fwww.google.com%2F&speed=1
